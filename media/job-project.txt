@@ -1,0 +1,18 @@
+Admin Features
+
+Homepage– For the homepage, you will be able to all the basic access in the whole system. Such as home, about us, contact us, and registration of employee and employer.
+Sign Up– For the sign up, you will fill the forms. Such as your username, password and email address.
+Login – For the login, you must login first before you can access the system.
+Manage jobseeker – The jobseeker’s applications for each job can be accessed by the admin user. The admin can add, update, and delete jobseeker’s information.
+Manage employer – For the employer, The admin can add, update, and delete company information.
+Manage posted jobs – For the posted jobs, The admin can add, update, and delete posted jobs.
+
+
+Jobseeker Features
+
+
+Search Job – Jobseeker can search a job that can fit to there expertise.
+Apply online – Jobseeker can apply online for their desired jobs.
+Manage Profile – The Jobseeker can Add and Edit profile information including qualification, experience, and skills.
+Sign Up– For the sign up, The jobseeker must fill the forms. Such as your first name, last name, password and email address.
+Login – For the login, The jobseeker must login first before she/he can access the system.
